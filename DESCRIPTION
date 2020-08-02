@@ -1,0 +1,15 @@
+Package: sprosr
+Type: Package
+Title: Semidefinite Programming-based Protein Structure Determination
+Date: 2018-04-18
+Version: 0.1.0
+Author: Adam Rahman (R), Babak Alipanahi (original Matlab)
+Maintainer: Adam Rahman <a45rahma@uwaterloo.ca>
+Description: Executes the molecular conformation algorithm SPROS of Alipanahi et.al. <doi:10.1089/cmb.2012.0089>.
+Depends: sdpt3r (>= 0.1.0)
+KeepSource: yes
+NeedsCompilation: no
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+RoxygenNote: 6.0.1
+LazyData: true
